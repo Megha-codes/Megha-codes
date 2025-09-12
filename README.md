@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌻 Hi, I'm Megha  
 
-<!--
-**Megha-codes/Megha-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ An AI Engineer in the making | Math Enthusiast | Coding for social change ✨  
 
-Here are some ideas to get you started:
+I’m passionate about weaving together **art, algorithms, and impact** — from building deep learning models that see the unseen, to designing websites that breathe life into ideas.  
+Forever curious, a believer in late-night ideas and early-morning breakthroughs.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in India | 🌍 Working towards a future where tech meets humanity.  
+
+📌 On this profile, you’ll find:  
+- 🚀 AI/ML experiments & projects  
+- 🧩 Mathematical explorations  
+- 🌐 Web apps & creative builds
+- 🌸 A glimpse of my evolving journey  
+
+_"Code, like art, is a way of leaving pieces of yourself behind."_  
+
+---
