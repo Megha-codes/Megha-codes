@@ -2,9 +2,7 @@
 
 ✨ An AI Engineer in the making | Math Enthusiast | Coding for social change ✨  
 
-I’m passionate about weaving together **art, algorithms, and impact** — forever curious, a believer in late-night ideas and early-morning breakthroughs.  
-
-📍 Based in India | 🌍 Working towards a future where tech meets humanity.    
+I’m passionate about weaving together **art, algorithms, and impact** — forever curious, a believer in late-night ideas and early-morning breakthroughs.      
 
 _"Code, like art, is a way of leaving pieces of yourself behind."_  
 
