@@ -1,6 +1,6 @@
 # 🌻 Hi, I'm Megha  
 
-✨ An AI Engineer in the making | Math Enthusiast | Coding for social change ✨  
+✨ An AI Engineer in the making | Pure Math Enthusiast | Coding for social change ✨  
 
 I’m passionate about weaving together **art, algorithms, and impact** — forever curious, a believer in late-night ideas and early-morning breakthroughs.      
 
