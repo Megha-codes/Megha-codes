@@ -1,6 +1,3 @@
-https://github.com/user-attachments/assets/cc397c8a-8164-4f95-b5b0-b1ce95ace5fc
-
-
 
 # 🌻 Hi, I'm Megha  
 
